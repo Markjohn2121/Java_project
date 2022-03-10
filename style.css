@@ -1,0 +1,68 @@
+body {
+    font-size: 15pt;
+    background-image: url("assets/bg.png");
+    
+    
+    
+
+    
+}
+
+.head{
+   align-items: center;
+   display: block;
+   justify-items: center;
+   width: 100%;
+   height: 40%;
+   
+   padding: 10px;
+   
+}
+
+
+#split{
+   
+   width: 30px;
+   height: 20px;
+   margin-bottom: 10px;
+   color: white;
+   
+   border-color: white;
+   border-radius: 10px;
+   background-color: black;
+}
+#page{
+   
+   width: 30px;
+     margin-bottom: 10px;
+   color: white;
+   border-color: white;
+   height: 20px;
+   border-radius: 10px;
+   background-color: black;
+}
+#site{
+   position: relative;
+   width: 80%;
+     margin-bottom: 10px;
+     color: white;
+     border-color: white;
+     border-radius: 10px;
+     background: black;
+     height: 25px;
+}
+#button{
+   position: relative;
+   width: 30%;
+   text-align: center;
+   justify-content: center;
+   align-content: center;
+   background-color: red;
+   height: 25px;
+   border-color: white;
+   border-radius: 20px;
+   
+   
+   
+   
+}
